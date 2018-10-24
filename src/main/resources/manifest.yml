@@ -1,0 +1,5 @@
+applications:
+- name: movie-fun-app
+services:
+- moviefun-s3
+- movies-fun-mysql
